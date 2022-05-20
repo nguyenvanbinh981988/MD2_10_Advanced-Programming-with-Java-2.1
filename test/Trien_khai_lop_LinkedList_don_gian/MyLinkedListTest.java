@@ -2,7 +2,7 @@ package Trien_khai_lop_LinkedList_don_gian;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MyLinkedListTest {
+class MyLinkedListTest  {
     public static void main(String[] args) {
         System.out.println("/=/=/=/= TESTING /=/=/=/=");
         MyLinkedList ll = new MyLinkedList(10);
